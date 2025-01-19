@@ -8,6 +8,8 @@ fn main() {
 
     // let _ = practice::json_bin::json_bin();
 
-    let _ = practice::csv::csv_practice();
+    // let _ = practice::csv::csv_practice();
+    // let _ = practice::sqlite::sql_practice();
 
+    let _ = practice::yaml::yaml_practice();
 }
