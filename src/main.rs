@@ -6,6 +6,8 @@ fn main() {
     // practice::words::words(&text);
     // practice::guessing_game::guessing_game();
 
-    let _ = practice::json_bin::json_bin();
+    // let _ = practice::json_bin::json_bin();
+
+    let _ = practice::csv::csv_practice();
 
 }
